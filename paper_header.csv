@@ -1,0 +1,1 @@
+PaperID:ID(Paper)	OGTITLE:IGNORE	Title:String	Year:Int	Date:String	DOI:IGNORE	OGVENUE:IGNORE	Venue:String	JournalID:IGNORE	ConferenceID:IGNORE	PaperRnak:Int
